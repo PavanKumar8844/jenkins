@@ -1,0 +1,1 @@
+New file added to check when the putty.exe is not working
